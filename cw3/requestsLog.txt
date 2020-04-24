@@ -1,0 +1,77 @@
+Path: /api/students 
+Method: GET 
+QueryString:  
+Body:  
+  
+Path: /api/students 
+Method: GET 
+QueryString:  
+Body:  
+  
+Path: /api/students 
+Method: GET 
+QueryString:  
+Body:  
+  
+Path: /api/students 
+Method: POST 
+QueryString:  
+Body: {
+
+	"login": "aaa"
+	"password": "asd"
+
+} 
+  
+Path: /api/students 
+Method: POST 
+QueryString:  
+Body: {
+
+	"login": "aaa",
+	"password": "asd"
+
+} 
+  
+Path: /api/students 
+Method: POST 
+QueryString:  
+Body: {
+
+	"login": "aaa",
+	"password": "asd"
+
+} 
+  
+Path: /api/students 
+Method: GET 
+QueryString:  
+Body: {
+
+	"login": "aaa",
+	"password": "asd"
+
+} 
+  
+  
+  
+Path: /api/students 
+Method: GET 
+QueryString:  
+Body:  
+  
+Path: /api/students 
+Method: GET 
+QueryString:  
+Body: {
+
+	"login": "aaa",
+	"password": "asd"
+
+} 
+  
+Path: /api/students 
+Method: GET 
+QueryString:  
+Body:  
+  
